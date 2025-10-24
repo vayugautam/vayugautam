@@ -15,7 +15,7 @@
   <a href="https://www.codechef.com/users/badead249">
     <img src="https://img.shields.io/badge/CodeChef-1650-brown?logo=codechef" />
   </a>
-  <a href="https://codeforces.com/profile/badead249">
+  <a href="https://codeforces.com/profile/vayugautam">
     <img src="https://img.shields.io/badge/Codeforces-1181-blue?logo=codeforces" />
   </a>
   <a href="https://www.linkedin.com/in/divya-ratna-gautam-a925a82a0">
@@ -91,7 +91,7 @@ AI-powered Secure Loan Verification System ensuring transparency and fraud detec
   <a href="mailto:vayugautam249@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="36" /></a>
   <a href="https://www.linkedin.com/in/divya-ratna-gautam-a925a82a0"><img src="https://img.icons8.com/color/48/linkedin.png" width="36" /></a>
   <a href="https://leetcode.com/badead249/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width="36" /></a>
-  <a href="https://codeforces.com/profile/badead249"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="36" /></a>
+  <a href="https://codeforces.com/profile/vayugautam"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width="36" /></a>
   <a href="https://www.codechef.com/users/badead249"><img src="https://img.icons8.com/color/48/codechef.png" width="36" /></a>
   <a href="https://github.com/vayugautam"><img src="https://img.icons8.com/glyph-neue/48/github.png" width="36" /></a>
 </p>
