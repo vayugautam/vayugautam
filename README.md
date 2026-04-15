@@ -60,20 +60,15 @@ const divya_ratna = {
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/LeetCode-1929-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a1a" alt="LeetCode"/>
 <br><b>Knight Badge</b><br>
 <sub>Top 4% Globally</sub>
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://img.shields.io/badge/CodeChef-1650-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1a1a1a" alt="CodeChef"/>
 <br><b>3 Star Coder</b><br>
 <sub>Active Competitor</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Codeforces-1186-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a1a" alt="Codeforces"/>
-<br><b>Specialist</b><br>
-<sub>Rising Rank</sub>
 </td>
 </tr>
 </table>
@@ -84,7 +79,6 @@ const divya_ratna = {
 |:--------:|:-------:|:----:|:----------:|
 | 🟡 **LeetCode** | Weekly Contest #437 | **562** | Top 5% |
 | 🟤 **CodeChef** | Starters 176 | **296** | Top 2% |
-| 🔵 **Codeforces** | Round 1007 (Div. 2) | **3107** | Top 25% |
 
 </div>
 
