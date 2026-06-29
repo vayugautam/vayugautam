@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Divya+Ratna+Gautam;Software+Engineer+%F0%9F%92%BB;Backend+%26+Systems+Developer+%E2%9A%99%EF%B8%8F;AI%2FML+Infrastructure+%F0%9F%A4%96;LeetCode+Knight+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=100&lines=Divya+Ratna+Gautam;Software+Engineer+%F0%9F%92%BB;Backend+%26+Systems+Developer+%E2%9A%99%EF%B8%8F;AI%2FML+Engineer+%F0%9F%A4%96;LeetCode+Knight+%F0%9F%8F%86" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/divya-ratna-gautam-a925a82a0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
