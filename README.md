@@ -107,10 +107,8 @@ A from-scratch DPI engine that parses raw network packets in parallel and classi
 - 🔐 TCP/IP & TLS parsing — extracts SNI from encrypted HTTPS
 - 🗺️ Five-tuple flow tracking for per-session state
 
-**🛠️ Tech Stack:**
-```
-Java · Concurrency · TCP/IP · TLS · PCAP
-```
+**🛠️ Tech Stack:**Java · Concurrency · TCP/IP · TLS · PCAP
+
 
 </td>
 <td width="50%" valign="top">
@@ -130,9 +128,9 @@ A vector database built from scratch — no external DB — powering an end-to-e
 - 📊 Live 2D PCA view of the embedding space
 
 **🛠️ Tech Stack:**
-```
+
 Python · HNSW · LLMs · Ollama · REST API
-```
+
 
 </td>
 </tr>
@@ -245,7 +243,7 @@ graph LR
     A --> D[Advanced DSA]
 
     H[🎯 Preparing For] --> I[SDE / AI Engineer Roles]
-    H --> J[Flipkart GRiD 8.0]
+    H --> J[Upcoming Hackathons]
 
     style A fill:#00D9FF,stroke:#333,stroke-width:2px,color:#000
     style H fill:#00D9FF,stroke:#333,stroke-width:2px,color:#000
@@ -314,6 +312,6 @@ graph LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontAlignY=70&animation=twinkling" width="100%"/>
 
-<sub>Last Updated: June 2026 | Made with ❤️ and ☕</sub>
+<sub>Last Updated: August 2026 | Made with ❤️ and ☕</sub>
 
 </div>
